@@ -1,0 +1,45 @@
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px; 
+}
+
+
+
+.time-container {
+  display: flex;
+  align-items: center;
+}
+
+.time-input {
+  margin-right: 10px; 
+}
+
+
+h1{
+  margin-top: 7rem;
+}
+.custom-input{
+  height:3rem;
+  width:15rem
+}
+.strtcd{
+  height: 2.2rem;
+  width: 100rem;
+  margin-left: 5rem;
+  background-color: #387A77 ;
+  color: white;
+}
+.cancel{
+  color: white;
+  background-color:#387A77 ;
+  margin-top: 1rem;
+}
